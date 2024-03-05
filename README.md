@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2 align="left">🛠 Tools and technologies:</h2>
-## 🛠 Tools and technologies:
+### 🛠 Tools and technologies:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" 
         alt="intellij idea" width="40" height="40" />
