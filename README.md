@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <h2 align="left">🛠 Tools and technologies:</h2>
+## 🛠 Tools and technologies:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" 
+        alt="intellij idea" width="40" height="40" />
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
+        alt="java" width="40" height="40" />
 
 <!--
 **KAnti-VP/KAnti-VP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
